@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;WindowDestroyer.java&apos; to &apos;RescueSimulation-M2/src/view&apos;&#x0D;&#x0A;- Original project: &apos;GUI 2019_28986&apos;&#x0D;&#x0A;- Destination element: &apos;RescueSimulation-M2/src/view&apos;&#x0D;&#x0A;- Original element: &apos;WindowDestroyer.java&apos;" description="Copy compilation unit" destination="=RescueSimulation-M2/src&lt;view" element1="/GUI 2019&lt;{WindowDestroyer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1554606218414" units="1" version="1.0"/>
+</session>

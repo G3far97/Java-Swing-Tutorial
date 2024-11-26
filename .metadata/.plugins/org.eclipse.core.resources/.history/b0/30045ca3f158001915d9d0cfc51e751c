@@ -1,0 +1,36 @@
+package controller;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.ArrayList;
+import javax.swing.JButton;
+
+import model.events.SOSListener;
+import simulation.Rescuable;
+import view.RescueSimulationView;
+
+
+public class RescueSimulationGUI implements SOSListener, ActionListener{
+	private CommandCenter cmd;
+	private RescueSimulationView rescueSimulationView;
+	
+	public RescueSimulationGUI() {
+		CommandCenter cmd = this.cmd;
+		
+		RescueSimulationView rescueSimulationView = this.rescueSimulationView;
+		
+		rescueSimulationView.
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void receiveSOSCall(Rescuable r) {
+		// TODO Auto-generated method stub
+		
+	}
+}
